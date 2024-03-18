@@ -1,4 +1,5 @@
 # 💫 About Me:
+<h2 align="center">Praneeth KVS</h2>
 Top#20 Bloggers(AI & Data) in India - Certified by Microsoft Azure Blogathon<br>Intern - Machine Learning : Lamarr AI<br>Data Scientist/ML Engineer<br>MACHINE & DEEP LEARNING<br>Generative AI & Large Language Models<br>Early verified Bot Developer <br>
 
 
