@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center" style="color:green;">Venkata Srikara Praneeth Kanagala</h1> 
-Top#20 Bloggers(AI & Data) in India - Certified by Microsoft Azure Blogathon<br>Intern - Machine Learning : Lamarr AI<br>Data Scientist/ML Engineer<br>MACHINE & DEEP LEARNING<br>Generative AI & Large Language Models<br>Early verified Bot Developer <br>
+Top#20 Bloggers(AI & Data) in India - Certified by Microsoft Azure Blogathon<br>Data Scientist/ML Engineer<br>MACHINE & DEEP LEARNING<br>Generative AI & Large Language Models<br>Early verified Bot Developer <br>
 
 
 ## 🌐 Socials:
